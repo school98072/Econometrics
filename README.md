@@ -1,5 +1,7 @@
-# Econometrics Notes and Examples
-> Note I was ***not a programmer*** when taking this curriculum. Code could be improved! 😊 
+# Econometrics Case Study 
+
+##Airbus
+1. [Aftermarket Analysis]()
 
 ## Below are Main Sources of Info
 1. [Econometrics Cheat Sheet](https://github.com/Daniel-Carpenter/Econometrics/blob/main/Econometrics%20Cheat%20Sheet.pdf)
