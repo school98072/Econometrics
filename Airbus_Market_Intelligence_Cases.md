@@ -25,6 +25,7 @@
  * **应用模型：** Time Series Forecasting (ARIMA/VAR)
  * **模拟场景：** 基于过去 20 年的 FH/FC 历史数据，预测未来 20 年航空服务的总价值量。
  * **商业洞察：** 对应 JD 中“Build the regional Global Services Forecast”的核心职责，识别未来三个“维修波峰（Maintenance Waves）”的具体年份。
+
 **研究课题二：数据安全监管政策（Data Sovereignty）对数字化服务收入的冲击评估**
  * **应用模型：** Fixed Effects Panel Data & Difference-in-Differences (Diff-in-Diff)
  * **模拟场景：** 利用 **双重差分法 (DID)**，对比政策实施前后，“实现本地化部署”的机队与“未实现本地化”机队在数字化服务（如 Skywise）续约率上的差异。
