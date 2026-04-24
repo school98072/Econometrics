@@ -1,6 +1,6 @@
 # Econometrics Case Study 
 
-##Airbus
+## Airbus
 1. [Aftermarket Analysis]()
 
 ## Below are Main Sources of Info
